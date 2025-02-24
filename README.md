@@ -9,12 +9,19 @@
 ** Steps to follow:**
 
 Data read
+
 Do Multiple EDA with Plots (Show In streamlit)
+
 Preprocessing
+
 Stat Analysis
+
 Feature Selection
+
 Model Building – Build Atleast 3 models.
+
 Do predictions for the Live stream Data.
+
 Display the 3 model’s precision, recall, accuracy, f1-score
 
 
